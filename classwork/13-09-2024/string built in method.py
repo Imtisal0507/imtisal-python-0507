@@ -1,0 +1,16 @@
+s = "PythonProgramming"
+print(len(s))
+
+print(s.capitalize())
+print(s.lower())
+print(s.swapcase())
+print(s.center(30,"*"))
+print(s.count("P"))
+print(s.endswitch("ng"))
+print(s.find("P",2))
+print(s.index("P"))
+print(s.replace("p","R"))
+print(s.isalnum())
+print(s.isalpha())
+print(s.title())
+print(s.upper())
